@@ -1,0 +1,1 @@
+In order for the controller to work, a set of custom axes were defined. To add these custom axes to a new project copy and paste the inputmanager file, also in this folder, in the project settings folder in the root project folder. This will replace the default one. 
